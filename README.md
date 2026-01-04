@@ -1,23 +1,24 @@
 Project Overview
-This repository is intended to store the source codes and datasets developed during my academic research on garbage classification algorithms.
-To comply with academic norms and research confidentiality requirements, the complete release of relevant resources will be triggered by either of the following two situations:
-Upon graduation in May 2026;
-After the submitted academic paper receives a formal acceptance notification.
+This warehouse is used to store all the source codes and datasets developed by myself during the academic research in the field of garbage classification algorithms.
+To comply with academic norms and research confidentiality requirements, the complete release of relevant resources will be triggered once any of the following conditions are met:
+- Graduation in May 2026 successfully;
+- The relevant academic paper receives a formal acceptance notice.
 Release Plan
-Trigger conditions (satisfy any one of them)
-Condition 1: Complete the current academic courses by May 2026.
-Condition 2: Receive the formal acceptance notification for the paper related to this research.
+Trigger Conditions (any one of them is sufficient)
+Condition One: Complete the current academic stage and graduate successfully in May 2026.
+Condition Two: Receive the formal acceptance notice for the research-related paper.
 Contents to be uploaded
-Once the release conditions are met, the following resources will be fully uploaded to this repository:
-The complete source code of the garbage classification algorithm (including training scripts, inference demonstrations, and parameter configuration files).
-The corresponding dataset (after appropriate de-sensitization and annotation, in line with the data usage protocol). Detailed documentation (including environment configuration instructions, code running tutorials, and explanations of the algorithm's principles).
-Supplementary materials (such as experimental logs, result visualization scripts, and comparative experimental data).
-Release Progress Update
-The classification of resources and the progress of upload will be updated in this README file promptly. You can give this repository a like or follow it to receive real-time notifications. Note
-All the codes and datasets in this repository are solely for academic research and non-commercial purposes. Commercial use is strictly prohibited without permission.
-When using the resources in this repository, please cite the relevant academic papers (the citation format will be supplemented after the papers are published).
-Due to the large volume of data, some datasets will be provided in the form of download links (such as cloud storage sharing) to ensure smooth access. Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at any time through the following methods:
-Email: [yangyuhang@smail.sut.edu.cn]
-GitHub issue submission: Please submit your questions to the "Issues" section of this repository.
-Last updated date: [2026-01-04]
+After meeting the release conditions, this warehouse will upload the following resources:
+- Complete source codes of garbage classification algorithms (including training scripts, inference demonstration programs, parameter configuration files);
+- Supporting datasets (de-sensitized and labeled, fully compliant with data usage protocol requirements);
+- Detailed documentation (covering environment configuration guide, code running tutorial, algorithm principle explanation);
+- Supplementary materials (including experimental logs, result visualization scripts, comparative experiment data).
+Update on Release Progress
+The progress of resource organization and upload will be updated in this README. You can Star or Watch this repository to receive real-time notifications. Notes for Attention
+All the codes and datasets in this repository are exclusively for academic research and non-commercial purposes. They must not be used in commercial scenarios without permission.
+When using the resources in this repository, please make sure to cite the relevant academic papers (the standard citation format will be supplemented after the papers are published).
+Due to the large volume of the dataset, some files will be provided in the form of cloud storage sharing links to ensure smooth downloading. Contact Information
+If you have any questions or suggestions regarding this project, you can contact us through the following methods:
+Email: yangyuhang@smail.sut.edu.cn
+GitHub Issues: Please submit your issues in the Issues section of this repository
+Last updated date: 2026-01-04
