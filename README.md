@@ -1,16 +1,23 @@
-# Code Upload Plan Description 
-## Project Introduction
-This repository will be used to store and showcase various codes and programs that I have written during my learning and practice. Currently, the content of the repository is still being organized and prepared. I plan to gradually upload all relevant codes and programs to this repository after graduating in May this year. 
-## Upload Plan
-- **Upload Time**: The upload work is expected to commence after graduation in May 2026.
-- **Upload Contents**: This includes but is not limited to the code and programs of the course assignments, experimental projects, and personal interest projects I completed during my studies.
-- **Upload Progress**: I will do my best to complete the upload work as soon as possible and will update the upload progress in the repository promptly. 
-## Contact Information
-If you are interested in my code and programs, or have any questions or suggestions, please feel free to contact me via the following methods:
-- Email: [yangyuhang@smail.sut.edu.cn] 
-## Important Notes
-- The codes and programs in this repository are provided solely for learning and reference purposes. They should not be used for commercial purposes.
-- Due to the large number of codes and programs, there may be some errors and deficiencies. We sincerely welcome everyone to offer valuable opinions and suggestions. 
-Thank you for your attention and support! 
-[Yuhang Yang]
-[2026/1/4]
+Project Overview
+This repository is intended to store the source codes and datasets developed during my academic research on garbage classification algorithms.
+To comply with academic norms and research confidentiality requirements, the complete release of relevant resources will be triggered by either of the following two situations:
+Upon graduation in May 2026;
+After the submitted academic paper receives a formal acceptance notification.
+Release Plan
+Trigger conditions (satisfy any one of them)
+Condition 1: Complete the current academic courses by May 2026.
+Condition 2: Receive the formal acceptance notification for the paper related to this research.
+Contents to be uploaded
+Once the release conditions are met, the following resources will be fully uploaded to this repository:
+The complete source code of the garbage classification algorithm (including training scripts, inference demonstrations, and parameter configuration files).
+The corresponding dataset (after appropriate de-sensitization and annotation, in line with the data usage protocol). Detailed documentation (including environment configuration instructions, code running tutorials, and explanations of the algorithm's principles).
+Supplementary materials (such as experimental logs, result visualization scripts, and comparative experimental data).
+Release Progress Update
+The classification of resources and the progress of upload will be updated in this README file promptly. You can give this repository a like or follow it to receive real-time notifications. Note
+All the codes and datasets in this repository are solely for academic research and non-commercial purposes. Commercial use is strictly prohibited without permission.
+When using the resources in this repository, please cite the relevant academic papers (the citation format will be supplemented after the papers are published).
+Due to the large volume of data, some datasets will be provided in the form of download links (such as cloud storage sharing) to ensure smooth access. Contact
+If you have any questions or suggestions regarding this project, please feel free to contact me at any time through the following methods:
+Email: [yangyuhang@smail.sut.edu.cn]
+GitHub issue submission: Please submit your questions to the "Issues" section of this repository.
+Last updated date: [2026-01-04]
